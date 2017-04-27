@@ -1,16 +1,16 @@
-# Women Techmakers São Paulo #WTMSP
+# Women Techmakers Mendoza #WTMMendoza
 
-## Site WTMSP
-http://wtmsp.org
-Empoderando Mulheres através da Tecnologia
+## Site WTM Mendoza
+http://wtmmwndoza.github.io
+Empoderamiento de la mujer a través de la tecnología
 
-## Sobre o WTMSP
-O Women Techmakers São Paulo é uma comunidade independente, dentro do GDG São Paulo, que promove a visibilidade feminina na área de tecnologia. Faça parte, discuta, participe dos eventos e dê sugestões. A casa é de todas nós #WomenTechmakers
+## Acerca de WTMMendoza
+WTM es una comunidad independiente dentro del GDG Mendoza, que promueve la visibilidad de las mujeres en el área de tecnología. Unirse, discutir, participar en los eventos y dar sugerencias. #WomenTechmakers
 
 ## Iniciativas
-Com foco na inserção de mais mulheres na área de tecnologia, promovemos um ambiente saudável para o aprendizado e a troca de experiências e ideias.
-O formato é sempre descontraído para que aconteça o networking entre os participantes e convidados e os temas são insumos que recebemos da própria comunidade: Desde workshops e codelabs, até mentorias e desconferências.
+Centrándose en la inclusión de más mujeres en el campo de la tecnología, se promueve un ambiente saludable para el aprendizaje y el intercambio de experiencias e ideas.
+El formato es siempre relajada para que suceda la creación de redes entre los participantes e invitados y los temas son entradas que hemos recibido de la comunidad de los talleres y codelabs hasta mentorias y conferencias.
 
-## Nos acompanhem nas redes sociais
-- https://twitter.com/wtmsaopaulo
-- https://medium.com/women-techmakers-são-paulo
+## Síguenos en las redes sociales
+- https://twitter.com/wtmmendoza
+- https://facebook.com/wtmmendoza

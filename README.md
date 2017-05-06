@@ -11,7 +11,7 @@ El formato es siempre relajada para que suceda la creación de redes entre los p
 - https://twitter.com/pythonmendoza
 - https://facebook.com/pythonmendoza
 
-## Acerca de Pyladies
+# Acerca de Pyladies
 Pyladies Mendoza es una comunidad independiente dentro del Python Mendoza, que promueve la visibilidad de las mujeres en el área de tecnología. Unirse, discutir, participar en los eventos y dar sugerencias.
 
 ## Iniciativas

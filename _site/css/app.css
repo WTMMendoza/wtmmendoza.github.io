@@ -3,9 +3,7 @@ html { color: rgba(0, 0, 0, 0.87); }
 .uncollapse {padding: 0 2em;}
 span.text-btn { position: relative; bottom: 4px; }
 
-/*section.top { background: #FFEA9D  }
-*/section.top { background: #FFE584 linear-gradient(-45deg, #fbebb1 0, #FFEA9D 100%); }
-
+section.top { background: #FFE584 linear-gradient(-45deg, #fbebb1 0, #FFEA9D 100%); }
 section.top .logo-spot { display: block; }
 section.top .logo-spot a .logo-small { display: block; margin: 2em 0; }
 section.top .logo-spot a .logo-large { display: block; margin: 3em 0; }

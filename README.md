@@ -19,5 +19,6 @@ Centrándose en la inclusión de más mujeres en el campo de la tecnología, se 
 El formato es siempre relajada para que suceda la creación de redes entre los participantes e invitados y los temas son entradas que hemos recibido de la comunidad de los talleres y codelabs hasta mentorias y conferencias.
 
 ## Síguenos en las redes sociales
+- http://pyladiesmdz.github.io
 - https://twitter.com/pyladiesmdz
 - https://facebook.com/pyladiesmdz

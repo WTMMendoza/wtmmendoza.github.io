@@ -3,11 +3,11 @@ html { color: rgba(0, 0, 0, 0.87); }
 .uncollapse {padding: 0 2em;}
 span.text-btn { position: relative; bottom: 4px; }
 
-section.top { background: #2A6A79 linear-gradient(-45deg, #65AD9B 0, #324D5A 100%); }
+section.top { background: #FFE584 linear-gradient(-45deg, #fbebb1 0, #FFEA9D 100%); }
 section.top .logo-spot { display: block; }
 section.top .logo-spot a .logo-small { display: block; margin: 2em 0; }
 section.top .logo-spot a .logo-large { display: block; margin: 3em 0; }
-section.top .logo-spot .menu { background-color: rgba(255, 255, 255, 0.16); font-weight: 300; }
+section.top .logo-spot .menu { background: #fbc02d; font-weight: 600; }
 section.top .logo-spot .menu a.icon { padding: .6em; display: block; text-align: right; color: #fff; font-size: 1.3em; }
 section.top .logo-spot .menu a.icon span { font-size: .8em; display: inline-block; bottom: 3px; position: relative; }
 section.top .logo-spot .menu ul { list-style: none;text-align: center;}
